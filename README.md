@@ -1,4 +1,4 @@
-# CI/CD Workshop | R in Pharma 2022
+# CI/CD Workshop | R in Pharma 2022 test
 
 R in Pharma 2022 CI/CD workshop repository.
 
